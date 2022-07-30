@@ -7,5 +7,5 @@
 </p>
 
 <p align="center">
-  <img src="[https://komarev.com/ghpvc/?username=ExtremeAntonis&color=blueviolet](https://github-readme-stats.vercel.app/api/top-langs/?username=ExtremeAntonis&layout=compact)">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExtremeAntonis&layout=compact">
 </p>
