@@ -1,10 +1,10 @@
-<p align="center">
+<p align="">
   <img src="https://pa1.narvii.com/7630/48f84e1533414c42a803b2e88cd257611a669f1br1-320-1_hq.gif">
 </p>
-<p align="center">
+<p align="">
   <img src="https://pa1.narvii.com/7630/48f84e1533414c42a803b2e88cd257611a669f1br1-320-1_hq.gif">
 </p>
-<p align="center">
+<p align="">
   <img src="https://pa1.narvii.com/7630/48f84e1533414c42a803b2e88cd257611a669f1br1-320-1_hq.gif">
 </p>
 
