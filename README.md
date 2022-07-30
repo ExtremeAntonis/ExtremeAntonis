@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://pa1.narvii.com/7630/be416c19624431ca565a0ab6f809d858dad41c9cr1-320-2_hq.gif">
+  <img src="https://pa1.narvii.com/7630/3b0d49d129ccdbf70510aafa637576a832f51e7ar1-320-1_hq.gif">
 </p>
 
 <p align="center">
