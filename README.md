@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://pa1.narvii.com/7630/48f84e1533414c42a803b2e88cd257611a669f1br1-320-1_hq.gif">
+  <img src="https://user-images.githubusercontent.com/68855179/182002560-5c520052-74fc-4fc8-8f63-82e3d70d7673.png">
 </p>
 
 <p align="center">
