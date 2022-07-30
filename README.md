@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=ExtremeAntonis&color=blueviolet&style=plastic)
+![](https://komarev.com/ghpvc/?username=ExtremeAntonis&color=blueviolet&style=for-the-badge)
 <!--
 **ExtremeAntonis/ExtremeAntonis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
