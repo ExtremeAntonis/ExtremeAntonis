@@ -4,5 +4,5 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=ExtremeAntonis&show_icons=true&theme=radical)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ExtremeAntonis)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ExtremeAntonis&langs_count=100)
 </p>
