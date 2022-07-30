@@ -1,3 +1,5 @@
+![](https://steemitimages.com/DQmZCo76MUSeg8WNYUqr9UMGig3kufJWfENY337KfSbpoJC/17.gif)
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ExtremeAntonis&color=blueviolet">
 </p>
