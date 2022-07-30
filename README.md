@@ -15,3 +15,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExtremeAntonis&layout=compact&theme=radical">
 </p>
+
+<p align="center">
+  <img src="https://steemitimages.com/DQmZCo76MUSeg8WNYUqr9UMGig3kufJWfENY337KfSbpoJC/17.gif">
+</p>
